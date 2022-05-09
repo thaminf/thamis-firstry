@@ -2,4 +2,4 @@
 desafio de projeto sobre git/github :))
 
 ## meu instagram
-(instagram.com/@thaminf)
+[@thaminf] (instagram.com/@thaminf)
