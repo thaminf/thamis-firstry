@@ -1,0 +1,16 @@
+git: mudar, listar, criar e deletar pastas
+
+COMANDOS
+dir - lista as pastas
+cd - navega nas pastas
+cd/ - leva a base do diretório c:
+cd windows - entra na pasta windows (ex)
+cd dir windows - traz todos os arquivos contidos
+cd .. - caminho inverso
+ls - lista o conteúdo do diretório atual
+ls -a - lista git ocultos 
+cls ou ctrl + l - limpar tela
+mkdir - criar pasta
+c:\>del "nome arquivo" - deleta arquivo
+rmdir nome arquivo /s /q - deleta repositório
+

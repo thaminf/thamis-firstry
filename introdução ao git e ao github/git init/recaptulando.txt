@@ -1,0 +1,12 @@
+no relembrando algumas coisinhas, o que foi feito: 
+
+1. criar um repositório em readme.md 
+2. clonar link ssh ou htps para trabalhar com o rep na minha máquina
+3. abrir uma pasta nova pra executar o git bash dentro dela
+4. dar o comando "git clone"
+
+para mandar informações que criamos na máquina *local* para o servidor remoto do github: git add . 
+e git status
+ + git commit -m "inclusão....." para 
+
+para mandar pra nuvem: git push origin main

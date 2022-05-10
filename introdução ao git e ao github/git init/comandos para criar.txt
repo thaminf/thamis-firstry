@@ -1,0 +1,13 @@
+dentro do /c
+
+$ ls
+
+$ cd workspace
+
+$ mkdir nome da pasta
+
+$ git init
+
+$ git add .
+
+$ git commit -m ""
